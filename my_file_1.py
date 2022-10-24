@@ -5,3 +5,4 @@ print(sum)
 c=int(input("Введите третье число"))
 raz=sum-c
 print(raz)
+print("hello")
